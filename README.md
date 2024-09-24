@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flamonteiro
 - 👀 I’m interested in development and everything about it!
-- 🌱 I’m currently learning Full Stack Development (HTML, CSS, JavaScript, Java, Angular).
+- 🌱 I’m currently learning Full Stack Development (HTML, CSS, JavaScript,Typescript, Angular).
 - 💞️ I’m looking to collaborate on any kind of project that can expand my knowledge!
 - 📫 How to reach me:
 - E-mail: fla.mont2019@gmail.com.com
